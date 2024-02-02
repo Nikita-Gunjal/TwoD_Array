@@ -24,3 +24,35 @@ public class TwoDArray {
     }
     
 }
+
+
+
+//Program 2
+/*import java.util.Scanner;
+
+public class star {
+    public static void main(String[] args) {
+       /*Scanner sc=new Scanner(System.in);
+       int n= sc.nextInt();
+
+       int st=1;
+       int sp= n-1;
+       int number_of_lines=1;
+
+       while (number_of_lines<=n) {
+            //Star printing
+        for(int i=0;i<st;i++){
+            System.out.print("* ");
+            //space printing
+        } for(int i=0;i<sp;i++){
+            System.out.print(" ");
+        }
+        System.out.println();
+        st++;
+        sp--;
+        number_of_lines++;
+       }
+
+         }
+    
+}*/
